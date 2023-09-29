@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">p4</string>
+    <string name="p1titulo">Manejo de actividades (Layout)</string>
+    <string name="p1actbasic">Actividad Basica</string>
+    <string name="p2actparce">actividad Parceable</string>
+    <string name="p1actresp">Actividad Resultado</string>
+    <string name="p1ingnombre">Ingresa aqui tu nombre</string>
+    <string name="p1ingedad">Ingresa tu edad</string>
+    <string name="p1ingcorreo">Ingresa aqui tu correo</string>
+
+    <string name="p2titulo">Actividad Basica</string>
+    <string name="p2mensaje">Nombre recibido</string>
+    <string name="p2btnreg">Regresar ala actividad principal</string>
+
+    <string name="p3titulo">Elementos parcelables datos</string>
+    <string name="p3informacion">Datos obtenidos</string>
+    <string name="p3btnregresa">Regresar al home</string>
+</resources>
